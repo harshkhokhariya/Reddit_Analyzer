@@ -1,7 +1,3 @@
-Here's a comprehensive README.md for your Reddit Analyzer project, incorporating all the details from your provided files:
-
----
-
 # Reddit Analyzer
 
 The Reddit Analyzer is a Python script designed to automatically identify business opportunities, pain points, and product ideas by analyzing discussions in specified subreddits. It leverages the Reddit API to fetch posts and comments, and a Large Language Model (LLM) (via LiteLLM) to synthesize these conversations into structured market research reports.
