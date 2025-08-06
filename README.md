@@ -32,7 +32,7 @@ This tool is ideal for startup founders, product managers, or anyone looking to 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url_here>
+git clone https://github.com/harshkhokhariya/Reddit_Analyzer.git
 cd reddit-market-opportunity-analyzer # Or whatever your project folder is named
 ```
 
@@ -147,5 +147,9 @@ The script will:
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or bug fixes.
+
+## License
+
+This project is open-source and licensed under the [MIT License](LICENSE.txt).
 
 ---
