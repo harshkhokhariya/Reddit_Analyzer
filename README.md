@@ -2,9 +2,9 @@ Here's a comprehensive README.md for your Reddit Analyzer project, incorporating
 
 ---
 
-# Reddit Market Opportunity Analyzer
+# Reddit Analyzer
 
-The Reddit Market Opportunity Analyzer is a Python script designed to automatically identify business opportunities, pain points, and product ideas by analyzing discussions in specified subreddits. It leverages the Reddit API to fetch posts and comments, and a Large Language Model (LLM) (via LiteLLM) to synthesize these conversations into structured market research reports.
+The Reddit Analyzer is a Python script designed to automatically identify business opportunities, pain points, and product ideas by analyzing discussions in specified subreddits. It leverages the Reddit API to fetch posts and comments, and a Large Language Model (LLM) (via LiteLLM) to synthesize these conversations into structured market research reports.
 
 This tool is ideal for startup founders, product managers, or anyone looking to uncover unmet needs and emerging trends directly from community discussions.
 
