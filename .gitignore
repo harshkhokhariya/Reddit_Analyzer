@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+venv
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data files (optional, but good practice)
+seen_links.txt
+reports/
+reddit_dumps/
